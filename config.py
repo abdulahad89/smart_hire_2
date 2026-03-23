@@ -330,4 +330,4 @@ GEMINI_PROMPTS = {
     "key_achievements": ["Notable accomplishment 1", "Notable accomplishment 2"],
     "languages": ["language1", "language2"],
     "soft_skills": ["communication", "leadership", "problem-solving"]
-}}
+}}"""

@@ -331,3 +331,4 @@ GEMINI_PROMPTS = {
     "languages": ["language1", "language2"],
     "soft_skills": ["communication", "leadership", "problem-solving"]
 }}"""
+}
